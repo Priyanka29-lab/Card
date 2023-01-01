@@ -16,8 +16,8 @@ export const Card = () => {
       <h3 className="back">It's a Fantastic Year ahead !!</h3>
       <p>Dear One,</p>
       <p>
-        Happy New Year 🥂 !! May this year will filled with lots of love and
-        laughter! May all of your 365 days will be Fantastic.
+        Happy New Year 🥂 !! May this year will filled with lots of love,
+        laughter and opportunities ! May your upcoming 365 days will be Fantastic.
       </p>
       <p className="name">Yours 😊</p>
       <button onTouchMove={TouchEvent}></button>
