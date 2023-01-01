@@ -130,8 +130,7 @@ p {
 }
 .name {
   position: absolute;
-  margin: 40px;
-  left: 200px;
+  left: 150px;
   top: 200px;
   color: #333;
 }
