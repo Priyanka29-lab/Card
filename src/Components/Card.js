@@ -13,13 +13,13 @@ export const Card = () => {
       </div>
     </div>
     <div className="cardInside">
-      <h3 className="back">It's a Fantastic Year ahead !!</h3>
+      <h3 className="back">It's a Fantastic Year ahead🥂</h3>
       <p>Dear One,</p>
       <p>
-        Happy New Year 🥂!! May this year filled with lots of love,
+        Happy New Year!! May this year filled with lots of love,
         laughter and opportunities in your life.</p>
     
-      <p className="name">Yours</p>
+      <p className="name">P.s- Yours</p>
       <button onTouchMove={TouchEvent}></button>
     </div>
   </div></div>
